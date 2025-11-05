@@ -19,8 +19,7 @@ python -m venv env
 
 ### 3. Activate Virtual Environment
 ```bash
-Windows	env\Scripts\activate
-Mac/Linux	source env/bin/activate
+env\Scripts\activate
 ```
 
 ### 4. Install Dependencies
