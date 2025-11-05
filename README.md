@@ -8,7 +8,7 @@ A Streamlit application that converts PDF content into multiple-choice questions
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/PDF-To-MCQ-Generator.git
+git clone https://github.com/Bobyy98/PDF-To-MCQ-Generator.git
 cd PDF-To-MCQ-Generator
 ```
 
